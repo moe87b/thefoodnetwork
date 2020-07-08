@@ -1,0 +1,77 @@
+.recipe
+{
+    
+   
+
+    display: flex;
+    flex-direction: column;
+    border: 1px solid greenyellow;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+
+  
+}
+
+
+
+.mainRecipe
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.title
+{
+    align-self: center;
+    font-size: xx-large;
+}
+
+@media only screen and (max-width: 600px)
+{
+.imageIngredients
+{
+    display: flex;
+    flex-direction: column;
+
+}
+}
+
+@media only screen and (min-width: 601px)
+{
+.imageIngredients
+{
+    display: flex;
+    flex-direction: row;
+
+}
+}
+
+img
+{
+    width: 300px;
+    height: 300px;
+}
+
+button
+{
+    background-color: white;
+    color: black;
+    font-style: bold;
+    height: 30px;
+    width: 100%;
+    border: 1px solid greenyellow; 
+    border-radius: 5px;
+
+}
+
+pre
+{
+    font-family: "Times New Roman";
+        white-space: pre-wrap;
+    word-wrap: break-word;
+    text-align: justify;
+  
+}

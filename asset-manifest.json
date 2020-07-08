@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/thefoodnetwork/static/js/main.f4e81d11.chunk.js",
+    "main.js.map": "/thefoodnetwork/static/js/main.f4e81d11.chunk.js.map",
+    "runtime-main.js": "/thefoodnetwork/static/js/runtime-main.d6e34668.js",
+    "runtime-main.js.map": "/thefoodnetwork/static/js/runtime-main.d6e34668.js.map",
+    "static/js/2.33ce9ad2.chunk.js": "/thefoodnetwork/static/js/2.33ce9ad2.chunk.js",
+    "static/js/2.33ce9ad2.chunk.js.map": "/thefoodnetwork/static/js/2.33ce9ad2.chunk.js.map",
+    "index.html": "/thefoodnetwork/index.html",
+    "precache-manifest.6bc8336b46e959aaba5e6b49657b5d07.js": "/thefoodnetwork/precache-manifest.6bc8336b46e959aaba5e6b49657b5d07.js",
+    "service-worker.js": "/thefoodnetwork/service-worker.js",
+    "static/js/2.33ce9ad2.chunk.js.LICENSE.txt": "/thefoodnetwork/static/js/2.33ce9ad2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6e34668.js",
+    "static/js/2.33ce9ad2.chunk.js",
+    "static/js/main.f4e81d11.chunk.js"
+  ]
+}
